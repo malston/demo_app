@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-DemoAppNew::Application.config.session_store :cookie_store, key: '_demo_app_new_session'
+DemoApp::Application.config.session_store :cookie_store, key: '_demo_app_new_session'
